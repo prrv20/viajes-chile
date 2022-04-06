@@ -1,0 +1,11 @@
+.logo{
+    font-size: 2em;
+}
+.encabezado{
+    background-size: cover;
+    min-width: 100vh;
+    
+}
+.encabezado .navbar {
+    background-color: transparent !important;
+  }
