@@ -5,16 +5,12 @@ body{
 .logo{
     font-size: 2em;
 }
-.encabezado{
-    background-size: cover;
-    min-width: 100vh;
-    
-}
+
 .encabezado .navbar {
     background-color: transparent !important;
   }
   .menu img{
-      max-width: 3em;
+      max-width: 2em;
   }
   #color-menu{
       background-color: rgba(0,0,0,.2);
