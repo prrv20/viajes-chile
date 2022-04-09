@@ -1,17 +1,23 @@
+*{
+    box-sizing: border-box;
+}
 body{
     box-sizing: border-box;
     margin: 0 auto;
 }
 .logo{
-    font-size: 2em;
+    font-size: 1rem;
 }
-
+.encabezado{
+    background-size: cover;
+    min-width: 100vh;  
+}
 .encabezado .navbar {
     background-color: transparent !important;
   }
-  .menu img{
+.menu img{
       max-width: 2em;
   }
-  #color-menu{
+#color-menu{
       background-color: rgba(0,0,0,.2);
   }
